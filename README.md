@@ -2,7 +2,7 @@
  
 <head>
     <title>
-        Devops conent
+        Devops content 
     </title>
 </head>
  
